@@ -10,11 +10,11 @@
     .row.justify-content-between.align-items-center.BG16.p-5.mb-4
       .col-md-6.order-md-1.order-2(data-aos="fade-right")
         p Para los laboratorios dentales, así como en los establecimientos prestadores de servicios, es importante una excelente presentación de los productos o servicios que ofrece a un determinado mercado, por tal razón, las empresas realizan un sinnúmero de estrategias para hacerse notar y atraer clientes; entre las más conocidas se encuentra un documento o carpeta en el que se incluye la información básica y necesaria del	q1| negocio o empresa para que nuestros clientes o futuros clientes conozcan nuestra empresa, ayudándoles a tener una buena impresión de ella.
-        a.anexo.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+        a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=hETivH98gc0&ab_channel=EcosistemadeRecursosEducativosDigitalesSENA" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
-            p #[strong Enlace web]. En el siguiente video podrán encontrar más información sobre los portafolios.
+            p En el siguiente video podrán encontrar más información sobre los portafolios.
       .col-md-5.col-10.order-md-2.order-1.mb-md-0.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/tema7/img01.png')
 
@@ -34,7 +34,7 @@
             p.mb-0 <span style="color:#0273BC">#[strong Descripción del producto]</span>: detalles del producto, incluidos elementos como el color, la categoría del producto o el tipo de material del que está hecho.
           li
             <i class="fas fa-dot-circle" style="color:#0273BC"></i>
-            p.mb-0 <span style="color:#0273BC">#[strong Tipo/categoría de producto]</span>: cómo se ha clasificado el producto en función de las ofertas del proveedor
+            p.mb-0 <span style="color:#0273BC">#[strong Tipo/categoría de producto]</span>: cómo se ha clasificado el producto en función de las ofertas del proveedor.
           li
             <i class="fas fa-dot-circle" style="color:#0273BC"></i>
             p.mb-0 <span style="color:#0273BC">#[strong Precio]</span>: precio del producto, junto con los posibles descuentos.

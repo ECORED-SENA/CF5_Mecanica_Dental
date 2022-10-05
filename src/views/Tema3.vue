@@ -71,7 +71,7 @@
             | Cubetas perforadas para impresión
           li
             <i class="fas fa-dot-circle" style="color:#0273BC"></i>
-            | Formaletas en silicona sup. e inf. Tamaño standard
+            | Formaletas en silicona sup. e inf. Tamaño <em>standard</em>
           li
             <i class="fas fa-dot-circle" style="color:#0273BC"></i>
             | Gafas de protección
@@ -176,6 +176,9 @@
             li
               <i class="fas fa-dot-circle" style="color:#13C6CC"></i>
               | Pinza para yeso.
+            li
+              <i class="fas fa-dot-circle" style="color:#13C6CC"></i>
+              | Pinza tres picos en acero inoxidable.
       .tarjeta-avatar.slyderF-media
         img(src='@/assets/curso/tema3/img08.png' alt='AvatarTop')
         .BGR04.p-4.py-5
@@ -257,7 +260,7 @@
               .col.mb-3.mb-sm-0
                 p.text-white Para conocer la función de cada uno de esto elementos le recomendamos ingresar al siguiente documento donde encontrará la descripción específica de cada material:
               .col-sm-auto
-                a.boton.color-acento-botones(:href="obtenerLink('downloads/tabla06.pdf')" target="_blank")
+                a.boton.color-acento-botones(:href="('http://contratacion.sena.edu.co/_file/solicitudes/43206_1.pdf')" target="_blank")
                   span Descargar
                   i.fas.fa-file-download 
 
@@ -333,7 +336,7 @@
           img(src='@/assets/curso/tema3/img24.jpg' alt='AvatarTop')
           .BG06.p-4
             .h4 Mangos de sierra para troquelar
-            p.mb-0 Marco para sierra Usado en el laboratorio dental para seccionar (troquelar) los modelos de yeso, el marco de aluminio cromado brinda estabilidad 
+            p.mb-0 Marco para sierra Usado en el laboratorio dental para seccionar (troquelar) los modelos de yeso, el marco de aluminio cromado brinda estabilidad. 
       .row.slyderF-media
         .col
           img(src='@/assets/curso/tema3/img25.jpg' alt='AvatarTop')
@@ -434,7 +437,7 @@
               | Tener certificados para uso de fuentes de agua, energía y gas (últimos recibos).
             li
               <i class="fas fa-dot-circle" style="color:#13C6CC"></i>
-              | Contar con áreas y zonas de fabricación con iluminación y sistemas de ventilación y temperatura
+              | Contar con áreas y zonas de fabricación con iluminación y sistemas de ventilación y temperatura.
             li
               <i class="fas fa-dot-circle" style="color:#13C6CC"></i>
               | Tener vertimientos y drenajes de mediano caudal en zonas de lavado de materiales e instrumentos y lavamanos.

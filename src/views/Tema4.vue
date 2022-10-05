@@ -25,7 +25,7 @@
           .tarjeta-slide__contenedor
             .tarjeta-slide__contenido.p-5
               h4.mt-5 Reciclables
-              p.mb-5 #[strong Blanca]: Todo material susceptible para reciclado, reutilizado (vidrio, plástico, papel, cartón, entre otros).
+              p.mb-5 #[strong Blanca]: todo material susceptible para reciclado, reutilizado (vidrio, plástico, papel, cartón, entre otros).
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/tema4/img02.svg')})`}")
       .col-md-3.col-sm-6.mb-md-0.mb-4(data-aos="zoom-in")
         .tarjeta.tarjeta-slide.arriba.BG12(@mouseover="indicadorTarjetaSlide = false")
@@ -33,7 +33,7 @@
           .tarjeta-slide__contenedor
             .tarjeta-slide__contenido.p-5
               h4.mt-5.text-white No reciclables, no peligrosos
-              p.mb-5.text-white #[strong Negra]: Todo residuo no reciclable.
+              p.mb-5.text-white #[strong Negra]: todo residuo no reciclable.
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/tema4/img03.svg')})`}")
       .col-md-3.col-sm-6.mb-md-0.mb-4(data-aos="zoom-in") 
         .tarjeta.tarjeta-slide.arriba.BG13(@mouseover="indicadorTarjetaSlide = false")
@@ -41,7 +41,7 @@
           .tarjeta-slide__contenedor
             .tarjeta-slide__contenido.p-5
               h4.mt-5.text-white Orgánicos
-              p.mb-5.text-white #[strong Verde]: Origen biológico, restos de comida, cáscaras de fruta, verduras, hojas, pasto, entre otros. Susceptible de ser aprovechado.
+              p.mb-5.text-white #[strong Verde]: origen biológico, restos de comida, cáscaras de fruta, verduras, hojas, pasto, entre otros. Susceptible de ser aprovechado.
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/tema4/img04.svg')})`}")
       .col-md-3.col-sm-6.mb-md-0.mb-4(data-aos="fade-left") 
         .tarjeta.tarjeta-slide.arriba.BG14(@mouseover="indicadorTarjetaSlide = false")
@@ -49,7 +49,7 @@
           .tarjeta-slide__contenedor
             .tarjeta-slide__contenido.p-5
               h4.mt-5.text-white Peligrosos
-              p.mb-5.text-white #[strong Roja]: Residuos (corrosivo, reactivo, tóxico, inflamable, biológico infeccioso).
+              p.mb-5.text-white #[strong Roja]: residuos (corrosivo, reactivo, tóxico, inflamable, biológico infeccioso).
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/tema4/img05.svg')})`}")
 
     p Los residuos sólidos de laboratorio dental son clasificados en residuos infecciosos, residuos tóxicos no infecciosos y residuos domésticos y los desechos sospechosos de contener el patógeno en concentración suficiente que causan enfermedades en huéspedes susceptibles se consideran desechos infecciosos. 
@@ -64,7 +64,7 @@
 
       .row.justify-content-center.align-items-center.mb-5
         .col-md-5.order-md-1.order-2(data-aos="fade-right")
-          p Los desechos tóxicos no infecciosos están desprovistos de contaminación por fluidos humanos, pero son potencialmente tóxicos por naturaleza; incluye los desechos de resina acrílica, aleaciones metálicas desechadas, polvo metálico, porcelana y desechos de yeso. Otros desechos tóxicos no infecciosos son las aleaciones de amalgama y los ácidos utilizados en el pulido electrolítico de estructuras metálicas. Los residuos de tipo doméstico están compuestos por vasos de papel, plásticos y lijas.
+          p Los desechos tóxicos no infecciosos están desprovistos de contaminación por fluidos humanos, pero son potencialmente tóxicos por naturaleza; incluye los #[strong desechos de resina acrílica, aleaciones metálicas desechadas, polvo metálico, porcelana y desechos de yeso]. Otros desechos tóxicos no infecciosos son las aleaciones de amalgama y los ácidos utilizados en el pulido electrolítico de estructuras metálicas. Los residuos de tipo doméstico están compuestos por vasos de papel, plásticos y lijas.
         .col-md-5.col-10.order-md-2.order-1.mb-md-0.mb-4(data-aos="fade-left")
           img(src='@/assets/curso/tema4/img07.jpg')
         
