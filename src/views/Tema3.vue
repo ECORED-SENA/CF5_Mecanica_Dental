@@ -71,7 +71,7 @@
             | Cubetas perforadas para impresión
           li
             <i class="fas fa-dot-circle" style="color:#0273BC"></i>
-            | Formaletas en silicona sup. e inf. Tamaño <em>standard</em>
+            p.mb-0 Formaletas en silicona sup. e inf. Tamaño <em>standard</em>
           li
             <i class="fas fa-dot-circle" style="color:#0273BC"></i>
             | Gafas de protección

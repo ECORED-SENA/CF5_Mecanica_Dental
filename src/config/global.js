@@ -319,6 +319,23 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
+        nombre: 'Zuleidy María Ruíz Torres',
+        cargo: 'Revisión guión audiovisual',
+        centro: 'Centro de Comercio y Servicios Regional Tolima',
+      },
+      {
+        nombre: 'Wilson Andrés Arenales Cáceres',
+        cargo: 'Validación Ilustración',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Gilberto Junior Rodríguez Rodríguez',
+        cargo: 'Validación audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
         nombre: 'Nombre',
         cargo: 'Producción audiovisual',
         centro:
@@ -332,7 +349,7 @@ export default {
       },
       {
         nombre: 'Yuli Marcela Gómez Tarazona',
-        cargo: 'Validación de contenido',
+        cargo: 'Validación Contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
