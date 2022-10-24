@@ -9,7 +9,7 @@
     
     .row.align-items-center.mb-4
       .col-md-1.col-2(data-aos="fade-right")
-        img(src="@/assets/curso/temas/img02.png")
+        img(src="@/assets/curso/temas/img04.png")
       .col-md-11.col-10
         p.mb-0 Un laboratorio dental es, quizás, uno de los negocios comerciales más importantes de cualquier práctica dental. El laboratorio fabrica la prótesis dental ordenada por profesionales dentales, por ello debe estar organizado. En el organigrama deben estar definidos los roles y responsabilidades de cada miembro del equipo y área del laboratorio. A continuación, se presenta la estructura general de un laboratorio dental:
 

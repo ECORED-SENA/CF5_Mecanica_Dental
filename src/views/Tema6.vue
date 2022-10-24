@@ -26,9 +26,9 @@
           p.text-small(numero="7" titulo="Descripción del sistema") Se dirige a cada uno de los métodos que emplea la organización para satisfacer sus necesidades en el área de gestión de calidad.
           p.text-small(numero="8" titulo="Anexos") Cualquier texto, informe, valoración o diagrama que sirva de apoyo al tema central. Habrá que tener en cuenta que este tiene dos receptores: los auditores y los clientes.
     
-    .BGM03.p-4.p-md-5(data-aos="fade-right")
+    .BGM03.px-md-5.px-4.py-4.mb-4(data-aos="fade-right")
       .row.justify-content-center.align-items-center.p-4
-        .col-md-8
+        .col-lg-8.order-lg-1.order-2
           p Por consiguiente, se debe tener un manual de calidad donde se contemple la misión, visión, política de calidad, objetivos de calidad, procesos y procedimientos, estos se caracterizan por:
           ul.lista-ul--color.ms-4
             li
@@ -45,8 +45,8 @@
               p <span style="color:#0273BC">#[strong Objetivos de calidad]</span>: son el medio con el que el laboratorio dental inicia el enrutamiento de todos sus esfuerzos para cumplir con la política de calidad, partiendo de los objetivos se pueda determinar el cumplimiento de la política de calidad.
             li
               <i class="fas fa-dot-circle" style="color:#0273BC"></i>
-              p <span style="color:#0273BC">#[strong Procesos y procedimientos]</span>: en el laboratorio dental es un conjunto de actividades y operaciones necesarias, para transformar la materia prima en el producto que solicita el odontólogo.
-        .col-md-4.col-8.mb-md-0.mb-4
+              p.mb-0 <span style="color:#0273BC">#[strong Procesos y procedimientos]</span>: en el laboratorio dental es un conjunto de actividades y operaciones necesarias, para transformar la materia prima en el producto que solicita el odontólogo.
+        .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
           img(src='@/assets/curso/tema6/img02.png')
   
     p Cuando se trata de crear su propio sistema con un manual de calidad, es probable que el proceso sea distinto para cada establecimiento. Dar los pasos correctos desde el principio ayudará a mantener el orden y garantizará que se tenga todo lo que necesita para cumplir con los objetivos de calidad. Aquí hay algunos consejos para comenzar a escribir un manual de calidad que establezca adecuadamente las expectativas:

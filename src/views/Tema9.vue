@@ -8,9 +8,9 @@
       h1 Prescripción clínica
     
     .row.justify-content-center.mb-5
-      .col-md-5.col-10.mb-md-0.mb-4(data-aos="fade-right")
+      .col-lg-5.col-10.mb-lg-0.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/tema9/img01.png')
-      .col-md-7
+      .col-lg-7
         p Es la indicación dada por un profesional en odontología a partir del diagnóstico establecido a un paciente sobre el tipo y características del dispositivo médico sobre medida bucal que requiere ser fabricado. La prescripción deberá estar sustentada en una evaluación previa del paciente, se realizará en idioma español, en forma escrita, sea manuscrita, mecanográfica, medio electromagnético o computarizada.
         .cajon.color-acento-contenido.p-4(data-aos="fade-left")
           p.mb-0 Los dispositivos médicos sobre medida bucal que se fabrican en el territorio nacional deben ser prescritos por los profesionales en odontología, como prestadores de servicios de salud responsables del proceso en los términos señalados en la resolución. Las entidades promotoras de salud, entidades que administren planes adicionales de salud, las entidades adaptadas de salud, las entidades pertenecientes al Régimen Especial y de Excepción de salud, y las Entidades territoriales cuando contraten con Empresas Sociales del Estado debidamente habilitadas, la atención de la población pobre no asegurada y lo no cubierto por subsidios a la demanda, respetarán la autonomía del odontólogo en la prescripción, acorde con las necesidades del paciente y la tecnología, según el caso (Resolución 2113 de 2021).
@@ -46,13 +46,13 @@
             <i class="fas fa-dot-circle" style="color:#0273BC"></i>
             p.mb-0 Firma del odontólogo tratante.
 
-    .BGM17.p-4
+    .BGM17.p-md-5.p-4
       .h5.text-center.mb-5 Para finalizar, se presenta la estructura de una presuscripción clínica que será diligenciada por el odontólogo:
       .titulo-sexto.color-acento-contenido.mb-4
         h5 Figura 6
         span Estructura prescripción clínica
       figure
-        img(src='@/assets/curso/tema9/img03.svg')
+        img(src='@/assets/curso/tema9/img03.png')
     
 
 </template>

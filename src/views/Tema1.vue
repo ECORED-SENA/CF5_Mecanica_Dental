@@ -9,7 +9,7 @@
     
     .row.justify-content-center.align-items-center.BG01.mb-5
       .col-md-6.order-md-1.order-2
-        p.ms-5 Es importante tener claridad que los dispositivos médicos sobre medida bucal como los aparatos de ortodoncia, se elaboran teniendo en cuenta un conjunto de elementos que, al interactuar en boca, permiten corregir la forma y función del sistema estomatognático y que el odontólogo, los instala y ajusta periódicamente para modificar la posición de los dientes o tejidos de soporte óseo, corrigiendo maloclusiones y otros defectos dentomaxilares.
+        p.ms-lg-5.p-lg-0.p-4 Es importante tener claridad que los dispositivos médicos sobre medida bucal como los aparatos de ortodoncia, se elaboran teniendo en cuenta un conjunto de elementos que, al interactuar en boca, permiten corregir la forma y función del sistema estomatognático y que el odontólogo, los instala y ajusta periódicamente para modificar la posición de los dientes o tejidos de soporte óseo, corrigiendo maloclusiones y otros defectos dentomaxilares.
       .col-md-6.order-md-2.order-1.mb-md-0.mb-4.px-0(data-aos="fade-left")
         img(src="@/assets/curso/tema1/img01.png")
     
@@ -21,21 +21,21 @@
       h2 1.1.	Elementos de protección personal
     
     .row.justify-content-center.mb-5
-      .col-md-4.col-8.mb-md-0.mb-4(data-aos="fade-right")
+      .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
         img(src="@/assets/curso/tema1/img02.jpg")
-      .col-md-8(data-aos="fade-left")
+      .col-lg-8(data-aos="fade-left")
         p Desde el mismo instante en que se ingresa al laboratorio dental se deben tener en cuenta los riesgos y peligros que se tienen durante la elaboración de los aparatos, por ello, es fundamental que el técnico cuente con los elementos de protección personal necesarios y conocer sobre bioseguridad que le permita efectuar una detención de los riesgos y prevención de estos desde el ejercicio de su función.
         .row.justify-content-start
           .col-2
-            img.w-md-75(src="@/assets/curso/temas/img01.png")
+            img.w-75(src="@/assets/curso/temas/img01.png")
           .col-10
             p Dentro del laboratorio dental se hace necesario proteger a los empleados en el lugar de trabajo de lesiones o enfermedades serias que puedan resultar del contacto con peligros químicos, radiológicos, físicos, eléctricos, mecánicos u otros y para ello hay algunos elementos que se deben tener en cuenta:
 
     .row.justify-content-center.mb-5
-      .col-md-10(data-aos="zoom-in") 
+      .col-lg-10(data-aos="zoom-in") 
         LineaTiempoD.color-primario
           .row.justify-content-center.align-items-center(numero="1" titulo="Manejo cuidadoso de elementos cortopunzantes")
-            .col-md-6.order-md-1.order-2
+            .col-lg-6.mb-lg-0.mb-4
               ul.lista-ul--color.ms-4
                 li
                   <i class="fas fa-dot-circle" style="color:#0273BC"></i>
@@ -55,10 +55,10 @@
                 li
                   <i class="fas fa-dot-circle" style="color:#0273BC"></i>
                   | Al finalizar el trabajo, las herramientas no se abandonaran en cualquier parte. 
-            .col-md-6.order-md-2.order-1.mb-md-0.mb-4
+            .col-lg-6.col-10
               img(src="@/assets/curso/tema1/img03.jpg")
           .row.justify-content-center.align-items-center(numero="2" titulo="Manejo cuidadoso de máquinas")
-            .col-md-6.order-md-1.order-2
+            .col-lg-6.mb-lg-0.mb-4
               ul.lista-ul--color.ms-4
                 li
                   <i class="fas fa-dot-circle" style="color:#0273BC"></i>
@@ -72,10 +72,10 @@
                 li
                   <i class="fas fa-dot-circle" style="color:#0273BC"></i>
                   | La separación existente entre las máquinas ha de ser suficiente para que los técnicos trabajen de forma cómoda  y segura. 
-            .col-md-6.order-md-2.order-1.mb-md-0.mb-4
+            .col-lg-6.col-10
               img(src="@/assets/curso/tema1/img04.jpg")
           .row.justify-content-center.align-items-center(numero="3" titulo="Herramientas eléctricas")
-            .col-md-6.order-md-1.order-2
+            .col-lg-6.mb-lg-0.mb-4
               ul.lista-ul--color.ms-4
                 li
                   <i class="fas fa-dot-circle" style="color:#0273BC"></i>
@@ -83,10 +83,10 @@
                 li
                   <i class="fas fa-dot-circle" style="color:#0273BC"></i>
                   | No utilizar aparatos eléctricos con las manos húmedas o mojadas. 
-            .col-md-6.order-md-2.order-1.mb-md-0.mb-4
+            .col-lg-6.col-10
               img(src="@/assets/curso/tema1/img05.jpg")
           .row.justify-content-center.align-items-center(numero="4" titulo="Quemaduras por contacto con utensilios calientes")
-            .col-md-6.order-md-1.order-2
+            .col-lg-6.mb-lg-0.mb-4
               ul.lista-ul--color.ms-4
                 li
                   <i class="fas fa-dot-circle" style="color:#0273BC"></i>
@@ -97,7 +97,7 @@
                 li
                   <i class="fas fa-dot-circle" style="color:#0273BC"></i>
                   | Trabajar en los espacios más amplios posibles para evitar pasar cerca de superficies calientes. 
-            .col-md-6.order-md-2.order-1.mb-md-0.mb-4
+            .col-lg-6.col-10
               img(src="@/assets/curso/tema1/img06.jpg")
           .row.justify-content-center.align-items-center(numero="5" titulo="Elementos de protección personal")
             .col-12
@@ -113,7 +113,7 @@
       .col-md-11.col-10
         p.mb-0 Para la prevención de transmisión en los procesos de confección de los dispositivos intraorales se recomienda manejar algunos protocolos de bioseguridad y mitigar la transmisión de otras enfermedades bioinfecciosas en un laboratorio dental. El objetivo es reducir notablemente el riesgo de transmisión de microorganismos patógenos entre profesionales sanitarios, pacientes, visitantes y los propios objetos. Aplicar procedimientos de desinfección y esterilización correctos y rigurosos representa una excelencia clínica, demostrando igualmente la calidad de la atención a través de prótesis y/o productos dentales/de ortodoncia. 
 
-    .BG02.p-4.p-md-5(data-aos="fade-right")
+    .BG02.p-md-5.p-4(data-aos="fade-right")
       p A continuación, se presenta una guía con todos los pasos fundamentales para un correcto protocolo de higiene de prótesis/impresiones tanto por parte del personal del laboratorio dental:
 
       ImagenInfografica.color-primario.mb-5

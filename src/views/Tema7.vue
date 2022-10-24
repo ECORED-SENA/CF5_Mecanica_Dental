@@ -8,20 +8,20 @@
       h1 Portafolio de servicios
     
     .row.justify-content-between.align-items-center.BG16.p-5.mb-4
-      .col-md-6.order-md-1.order-2(data-aos="fade-right")
+      .col-lg-6.order-lg-1.order-2(data-aos="fade-right")
         p Para los laboratorios dentales, así como en los establecimientos prestadores de servicios, es importante una excelente presentación de los productos o servicios que ofrece a un determinado mercado, por tal razón, las empresas realizan un sinnúmero de estrategias para hacerse notar y atraer clientes; entre las más conocidas se encuentra un documento o carpeta en el que se incluye la información básica y necesaria del	q1| negocio o empresa para que nuestros clientes o futuros clientes conozcan nuestra empresa, ayudándoles a tener una buena impresión de ella.
         a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=hETivH98gc0&ab_channel=EcosistemadeRecursosEducativosDigitalesSENA" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
             p En el siguiente video podrán encontrar más información sobre los portafolios.
-      .col-md-5.col-10.order-md-2.order-1.mb-md-0.mb-4(data-aos="fade-left")
+      .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/tema7/img01.png')
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-md-4.col-8.mb-md-0.mb-4(data-aos="fade-right")
+      .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/tema7/img02.jpg')
-      .col-md-8(data-aos="fade-left")
+      .col-lg-8(data-aos="fade-left")
         p El portafolio puede tener un aspecto o formato diferente según las necesidades de cada laboratorio; no existe una apariencia o enfoque universalmente aceptado. Algunos son recursos similares a revistas diseñadas, mientras que otros son archivos PDF bien organizados.
         p La mayoría de los catálogos de productos incorporarán varios elementos básicos que utilizan datos de productos. 
         .h5 Estos son algunos tipos de información que es visible en un portafolio de productos:

@@ -25,6 +25,8 @@
     bottom: 30%
     left: 30%
 
+.titulo-principal.color-acento-contenido .titulo-principal__numero span
+  color: $black
 
 @keyframes float1
   0%
@@ -42,14 +44,16 @@
   background-color: #D0E2E7
 
 .BG02
-  background: linear-gradient(to bottom, #CFF4F5,#FFF)
+  background: linear-gradient(to bottom,#FFF, #CFF4F5, #FFF)
 
 .BG03, .BGR03, .BGM03, .linea-tiempo-d__item--selected .linea-tiempo-d__item__content__title, .linea-tiempo-d__item__content__slot
   background-color: #E5F1F8
 
 .BGR04
   background-color: #CFF4F5
-  height: 411.08px
+  height: 411px
+  @media (max-width: $bp-max-lg)
+    height: 465px
   
 .BGR05
   background: linear-gradient(to bottom, #13C6CC,#086568)
@@ -98,6 +102,8 @@
 
 .BG02, .BGM03, .BGM06, .BGM08, .BGM09, .BGM15, .BGM17
   margin-inline: -3.2rem !important
+  @media (max-width: $bp-max-sm)
+    margin-inline: -1.4rem !important
 
 .BGR03, .BGR04, .BGR05, .BGR18
   border-radius: 15px
@@ -110,7 +116,7 @@
 
 .slyderF-media
   @media screen and ( max-width: 810px) 
-    padding-right: 5rem!important
+    padding-right: 1rem!important
 
 .tarjeta-slide
   border-radius: 0
@@ -122,3 +128,13 @@
 
 .slyder__btn i
   color: #0273BC
+
+.w-60
+  width: 60%
+
+.BG11, .BG12, .BG13, .BG14
+  height: 419px
+  @media (max-width: $bp-max-lg)
+    height: 360px
+  @media (max-width: $bp-max-sm)
+    height: 445px

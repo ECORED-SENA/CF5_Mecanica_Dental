@@ -99,7 +99,7 @@
 
     .h4.text-center.mb-5 Dentro de esa lista también están los siguiente materiales e instrumentos que tienen diferentes categorías:
 
-    SlyderF.mb-5(columnas="col-sm-11 col-lg-4")
+    SlyderF.mb-5(columnas="col-lg-4")
       .tarjeta-avatar.slyderF-media
         img(src='@/assets/curso/tema3/img03.png' alt='AvatarTop')
         .BGR04.p-4.py-5
@@ -254,7 +254,7 @@
       .col-md-10.BGR05.p-4
         .row.justify-content-center.align-items-center
           .col-md-2.col-3
-            img.w-75(src='@/assets/curso/tema3/img13.png')
+            img.w-60(src='@/assets/curso/tema3/img13.png')
           .col
             .row.justify-content-between.align-items-center
               .col.mb-3.mb-sm-0
@@ -270,7 +270,7 @@
     
     .h4.text-center Los instrumentos para la elaboración de aparatología son la base para la fabricación de estos elementos, en el siguiente recurso se presenta cada uno de ellos:
 
-    SlyderF.mb-5(columnas="col-sm-11 col-lg-4")
+    SlyderF.mb-5(columnas="col-lg-4")
       .row.slyderF-media
         .col
           img(src='@/assets/curso/tema3/img14.jpg' alt='AvatarTop')
@@ -340,49 +340,49 @@
       .row.slyderF-media
         .col
           img(src='@/assets/curso/tema3/img25.jpg' alt='AvatarTop')
-          .BG06.p-4
+          .BG07.p-4
             .h4 Mechero para alcohol
             p.mb-0 El mechero de mesa es un mechero altamente utilizado en cualquier clínica dental. Usado para calentar como para esterilizar materiales.
       .row.slyderF-media
         .col
           img(src='@/assets/curso/tema3/img26.jpg' alt='AvatarTop')
-          .BG07.p-4
+          .BG06.p-4
             .h4 Pinza 139
             p.mb-0 Utilizada para doblar alambre, tiene picos cortos, uno de los cuales, en forma de pirámide, es plano, y el otro, en forma de cono, es redondo; los picos cortos permiten ejercer muy buena presión sobre el alambre.
       .row.slyderF-media
         .col
           img(src='@/assets/curso/tema3/img27.jpg' alt='AvatarTop')
-          .BG06.p-4
+          .BG07.p-4
             .h4 Pinza de corte para alambre grueso
             p.mb-0 Estos alicates sirven para cortar todo tipo de alambres y arcos de ortodoncia.
       .row.slyderF-media
         .col
           img(src='@/assets/curso/tema3/img28.jpg' alt='AvatarTop')
-          .BG07.p-4
+          .BG06.p-4
             .h4 Pinza para yeso
             p.mb-0 El separador Wolff es un instrumento especial para retirar el yeso que cuenta con pico pato para evitar lesiones, gracias a sus ramas fuertes y dentadas con extremos redondeados.
       .row.slyderF-media
         .col
           img(src='@/assets/curso/tema3/img29.jpg' alt='AvatarTop')
-          .BG06.p-4
+          .BG07.p-4
             .h4 Pinza tres picos en acero inoxidable
             p.mb-0 Instrumento dental de acero inoxidable ideal para doblar y contornear alambre de ortodoncia.
       .row.slyderF-media
         .col
           img(src='@/assets/curso/tema3/img30.jpg' alt='AvatarTop')
-          .BG07.p-4
+          .BG06.p-4
             .h4 Taza de caucho grande para alginato - yeso
             p.mb-0 La taza para yeso es un instrumento utilizado para realizar la mezcla de yeso y/o alginatos y demás materiales de uso odontológico.
       .row.slyderF-media
         .col
           img(src='@/assets/curso/tema3/img31.jpg' alt='AvatarTop')
-          .BG06.p-4
+          .BG07.p-4
             .h4 Torre para conformar arcos
             p.mb-0 Instrumento de formación de flexión de alambre, instrumento de forma de curva de alambre dental.
       .row.slyderF-media
         .col
           img(src='@/assets/curso/tema3/img32.jpg' alt='AvatarTop')
-          .BG07.p-4
+          .BG06.p-4
             .h4 Vaso dappen de silicona
             p.mb-0 Los vasos dappen de silicona, son utilizados en la manipulación de materiales de uso odontológico, médico y farmacéutico. Su composición, a base de silicona, permite que sean esterilizados.
 
