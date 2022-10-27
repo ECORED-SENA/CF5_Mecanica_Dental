@@ -251,14 +251,15 @@
               | Tornillo de expansión: unilateral.
 
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade-right")
-      .col-md-10.BGR05.p-4
+      .col-md-10.BGR05
         .row.justify-content-center.align-items-center
-          .col-md-2.col-3
-            img.w-60(src='@/assets/curso/tema3/img13.png')
-          .col
+          .col-md-1.col-2.p-2
+            figure.ms-3
+              img(src='@/assets/curso/tema3/img13.png')
+          .col.p-4
             .row.justify-content-between.align-items-center
               .col.mb-3.mb-sm-0
-                p.text-white Para conocer la función de cada uno de esto elementos le recomendamos ingresar al siguiente documento donde encontrará la descripción específica de cada material:
+                p.text-white.mb-0 Para conocer la función de cada uno de esto elementos le recomendamos ingresar al siguiente documento donde encontrará la descripción específica de cada material:
               .col-sm-auto
                 a.boton.color-acento-botones(:href="('http://contratacion.sena.edu.co/_file/solicitudes/43206_1.pdf')" target="_blank")
                   span Descargar

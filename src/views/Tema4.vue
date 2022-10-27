@@ -19,36 +19,36 @@
       p.mb-0 Cabe manifestar que los objetos cortopunzantes, previo a ser colocados en las fundas rojas deberán ser almacenados en recipientes de plástico rígido, resistente y opaco (guardianes).
 
     .row.justify-content-center.mb-5
-      .col-lg-3.col-sm-6.mb-lg-0.mb-4(data-aos="fade-right")
+      .col-lg-3.col-sm-6.col-8.mb-lg-0.px-1.mb-4(data-aos="fade-right")
         .tarjeta.tarjeta-slide.arriba.BG11(@mouseover="indicadorTarjetaSlide = false")
           .indicador--hover(v-if="indicadorTarjetaSlide")
           .tarjeta-slide__contenedor
-            .tarjeta-slide__contenido.p-5
-              h4.mt-5 Reciclables
+            .tarjeta-slide__contenido.p-3
+              h4 Reciclables
               p.mb-5 #[strong Blanca]: todo material susceptible para reciclado, reutilizado (vidrio, plástico, papel, cartón, entre otros).
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/tema4/img02.svg')})`}")
-      .col-lg-3.col-sm-6.mb-lg-0.mb-4(data-aos="zoom-in")
+      .col-lg-3.col-sm-6.col-8.mb-lg-0.px-1.mb-4(data-aos="zoom-in")
         .tarjeta.tarjeta-slide.arriba.BG12(@mouseover="indicadorTarjetaSlide = false")
           .indicador--hover(v-if="indicadorTarjetaSlide")
           .tarjeta-slide__contenedor
-            .tarjeta-slide__contenido.p-5
-              h4.mt-5.text-white No reciclables, no peligrosos
+            .tarjeta-slide__contenido.p-3
+              h4.text-white No reciclables, no peligrosos
               p.mb-5.text-white #[strong Negra]: todo residuo no reciclable.
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/tema4/img03.svg')})`}")
-      .col-lg-3.col-sm-6.mb-lg-0.mb-4(data-aos="zoom-in") 
+      .col-lg-3.col-sm-6.col-8.mb-lg-0.px-1.mb-4(data-aos="zoom-in") 
         .tarjeta.tarjeta-slide.arriba.BG13(@mouseover="indicadorTarjetaSlide = false")
           .indicador--hover(v-if="indicadorTarjetaSlide")
           .tarjeta-slide__contenedor
-            .tarjeta-slide__contenido.p-5
-              h4.mt-5.text-white Orgánicos
+            .tarjeta-slide__contenido.p-3
+              h4.text-white Orgánicos
               p.mb-5.text-white #[strong Verde]: origen biológico, restos de comida, cáscaras de fruta, verduras, hojas, pasto, entre otros. Susceptible de ser aprovechado.
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/tema4/img04.svg')})`}")
-      .col-lg-3.col-sm-6.mb-lg-0.mb-4(data-aos="fade-left") 
+      .col-lg-3.col-sm-6.col-8.mb-lg-0.px-1.mb-4(data-aos="fade-left") 
         .tarjeta.tarjeta-slide.arriba.BG14(@mouseover="indicadorTarjetaSlide = false")
           .indicador--hover(v-if="indicadorTarjetaSlide")
           .tarjeta-slide__contenedor
-            .tarjeta-slide__contenido.p-5
-              h4.mt-5.text-white Peligrosos
+            .tarjeta-slide__contenido.p-3
+              h4.text-white Peligrosos
               p.mb-5.text-white #[strong Roja]: residuos (corrosivo, reactivo, tóxico, inflamable, biológico infeccioso).
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/tema4/img05.svg')})`}")
 

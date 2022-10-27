@@ -132,9 +132,18 @@
 .w-60
   width: 60%
 
+.tarjeta-slide__img
+  background-size: 100% 100%
+
 .BG11, .BG12, .BG13, .BG14
-  height: 419px
+  height: 304px
+  @media (max-width: $bp-max-xl)
+    height: 259px
   @media (max-width: $bp-max-lg)
-    height: 360px
+    height: 214px
+  @media (max-width: $bp-max-md)
+    height: 316px
   @media (max-width: $bp-max-sm)
-    height: 445px
+    height: 250px
+  @media (max-width: $bp-max-xs)
+    height: 329px
