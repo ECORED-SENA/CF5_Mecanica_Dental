@@ -12,7 +12,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema8/img01.jpg')})`}"
       )(data-aos="fade-right")
       .bloque-texto-g__texto.p-4(data-aos="fade-left")
-        p.mb-0 Según la normatividad que rige a los laboratorios dentales en Colombia, es importante tener en cuenta que todo producto elaborado debe contar con un proceso de documentación y archivo; por tal razón, en el artículo 22 de la Resolución 2113 de 201 por la cual se establece la documentación, archivo y procedimientos generales, así los establecimientos deberán cumplir con lo siguiente:
+        p.mb-0 Según la normatividad que rige a los laboratorios dentales en Colombia, es importante tener en cuenta que todo producto elaborado debe contar con un proceso de documentación y archivo; por tal razón, en el artículo 22 de la Resolución 2113 de 2021 por la cual se establece la documentación, archivo y procedimientos generales, así los establecimientos deberán cumplir con lo siguiente:
     
     .row.justify-content-center.mb-4
       .col-md-6.col-10.mb-md-0.mb-4(data-aos="fade-right")

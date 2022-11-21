@@ -38,7 +38,7 @@
             p El transporte de los aparatos debe realizarse en condiciones que excluyan la contaminación y/o la proliferación de microorganismos y plagas, para así prevenir la alteración de aparato dental.
           .tarjeta.color-secundario.p-3(x="10.7%" y="87.8%" numero="6")
             .h4 Gestión documental y registros
-            p La gestión documental tiene el objetivo de definir los procedimientos y los controles empleados de: Limpieza y ordenes de trabajo para la fabricación de aparatos.
+            p La gestión documental tiene el objetivo de definir los procedimientos y los controles empleados de: Limpieza y órdenes de trabajo para la fabricación de aparatos.
 
       .col-md-10.mb-4(data-aos="fade-right")
         .cajon.color-acento-contenido.p-4

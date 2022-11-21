@@ -9,7 +9,7 @@
     
     .row.justify-content-between.align-items-center.BG16.p-5.mb-4
       .col-lg-6.order-lg-1.order-2(data-aos="fade-right")
-        p Para los laboratorios dentales, así como en los establecimientos prestadores de servicios, es importante una excelente presentación de los productos o servicios que ofrece a un determinado mercado, por tal razón, las empresas realizan un sinnúmero de estrategias para hacerse notar y atraer clientes; entre las más conocidas se encuentra un documento o carpeta en el que se incluye la información básica y necesaria del	q1| negocio o empresa para que nuestros clientes o futuros clientes conozcan nuestra empresa, ayudándoles a tener una buena impresión de ella.
+        p Para los laboratorios dentales, así como en los establecimientos prestadores de servicios, es importante una excelente presentación de los productos o servicios que ofrece a un determinado mercado, por tal razón, las empresas realizan un sinnúmero de estrategias para hacerse notar y atraer clientes; entre las más conocidas se encuentra un documento o carpeta en el que se incluye la información básica y necesaria del	negocio o empresa para que nuestros clientes o futuros clientes conozcan nuestra empresa, ayudándoles a tener una buena impresión de ella.
         a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=hETivH98gc0&ab_channel=EcosistemadeRecursosEducativosDigitalesSENA" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")

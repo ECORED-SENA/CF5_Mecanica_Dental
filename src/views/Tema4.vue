@@ -80,7 +80,7 @@
     .row.justify-content-center.mb-4
       .col-md-10.mb-4(data-aos="zoom-in")
         .titulo-sexto.color-acento-contenido.mb-5
-          h5 Tabla 2
+          h5 Tabla 1
           span Residuos en el laboratorio dental
         .tabla-a.color-acento-contenido.mb-5
           table

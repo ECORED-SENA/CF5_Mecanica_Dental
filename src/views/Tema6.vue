@@ -22,7 +22,7 @@
           p.text-small(numero="3" titulo="Documentos") Toda aquella documentación que acredite la certificación con los entes gubernamentales.
           p.text-small(numero="4" titulo="Política y objetivos") Se recogerán en este punto, aunque sin proporcionar demasiados detalles.
           p.text-small(numero="5" titulo="Estructura") Desarrollo del organigrama de la empresa en relación con el área de calidad. Podrá incluir recursos visuales que ayuden al entendimiento.
-          p.text-small(numero="6" titulo="Referencias") relación con otros textos o manuales que hayan servido como marco al manual.
+          p.text-small(numero="6" titulo="Referencias") Relación con otros textos o manuales que hayan servido como marco al manual.
           p.text-small(numero="7" titulo="Descripción del sistema") Se dirige a cada uno de los métodos que emplea la organización para satisfacer sus necesidades en el área de gestión de calidad.
           p.text-small(numero="8" titulo="Anexos") Cualquier texto, informe, valoración o diagrama que sirva de apoyo al tema central. Habrá que tener en cuenta que este tiene dos receptores: los auditores y los clientes.
     
@@ -72,7 +72,7 @@
         p.mb-2 Redactar el manual.
         figure.mb-2  
           img(src='@/assets/curso/temas/img03.svg')
-        p.mb-2 Obtener información sobre el borrador de todos la áreas.
+        p.mb-2 Obtener información sobre el borrador de todos las áreas.
         figure.mb-2  
           img(src='@/assets/curso/temas/img03.svg')
         p.mb-2 Mantener una actitud de mejora continua y hacer revisiones.

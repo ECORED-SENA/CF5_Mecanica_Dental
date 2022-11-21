@@ -263,7 +263,7 @@ export default {
     },
     {
       referencia:
-        'Viola, R. (2019). Anatomía dental. Universidad Autónoma de México.',
+        'Esponda Vila, R. (2019). Anatomía dental. Universidad Nacional Autónoma de México (UNAM)).',
       link:
         'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/187393',
     },

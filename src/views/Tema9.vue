@@ -47,9 +47,9 @@
             p.mb-0 Firma del odontólogo tratante.
 
     .BGM17.p-md-5.p-4
-      .h5.text-center.mb-5 Para finalizar, se presenta la estructura de una presuscripción clínica que será diligenciada por el odontólogo:
+      .h5.text-center.mb-5 Para finalizar, se presenta la estructura de una prescripción clínica que será diligenciada por el odontólogo:
       .titulo-sexto.color-acento-contenido.mb-4
-        h5 Figura 6
+        h5 Figura 5
         span Estructura prescripción clínica
       figure
         img(src='@/assets/curso/tema9/img03.png')

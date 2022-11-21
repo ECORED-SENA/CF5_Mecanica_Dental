@@ -27,75 +27,75 @@
         ul.lista-ul--color.ms-md-4.mb-0
           li
             <i class="fas fa-dot-circle" style="color:#0273BC"></i>
-            | Alcohol industrial
+            | Alcohol industrial.
           li
             <i class="fas fa-dot-circle" style="color:#0273BC"></i>
-            | Alginato
+            | Alginato.
           li
             <i class="fas fa-dot-circle" style="color:#0273BC"></i>
-            | Cera rosada para bases
+            | Cera rosada para bases.
           li
             <i class="fas fa-dot-circle" style="color:#0273BC"></i>
-            | Conos de silicona para pulir acrílico amarillo, gris, verde
+            | Conos de silicona para pulir acrílico amarillo, gris, verde.
           li
             <i class="fas fa-dot-circle" style="color:#0273BC"></i>
-            | Discos de diamante
+            | Discos de diamante.
           li
             <i class="fas fa-dot-circle" style="color:#0273BC"></i>
-            | Fundente
+            | Fundente.
           li
             <i class="fas fa-dot-circle" style="color:#0273BC"></i>
-            | Gas butano
+            | Gas butano.
           li
             <i class="fas fa-dot-circle" style="color:#0273BC"></i>
-            | Hoja de sierra para troquelar
+            | Hoja de sierra para troquelar.
           li
             <i class="fas fa-dot-circle" style="color:#0273BC"></i>
-            | Mandril para pieza recta
+            | Mandril para pieza recta.
           li
             <i class="fas fa-dot-circle" style="color:#0273BC"></i>
-            | Rueda de caucho en colores para brillar metal. Pieza recta
+            | Rueda de caucho en colores para brillar metal. Pieza recta.
           li
             <i class="fas fa-dot-circle" style="color:#0273BC"></i>
-            | Soldadura de plata
+            | Soldadura de plata.
           li
             <i class="fas fa-dot-circle" style="color:#0273BC"></i>
-            | Tiza chroma
+            | Tiza chroma.
       .col-md-4.p-3(data-aos="fade-left")
         ul.lista-ul--color.ms-md-4.mb-0
           li
             <i class="fas fa-dot-circle" style="color:#0273BC"></i>
-            | Bandas metálicas tamaños variados (superiores e inferiores)
+            | Bandas metálicas tamaños variados (superiores e inferiores).
           li
             <i class="fas fa-dot-circle" style="color:#0273BC"></i>
-            | Cubetas perforadas para impresión
+            | Cubetas perforadas para impresión.
           li
             <i class="fas fa-dot-circle" style="color:#0273BC"></i>
             p.mb-0 Formaletas en silicona sup. e inf. Tamaño <em>standard</em>
           li
             <i class="fas fa-dot-circle" style="color:#0273BC"></i>
-            | Gafas de protección
+            | Gafas de protección.
           li
             <i class="fas fa-dot-circle" style="color:#0273BC"></i>
-            | Losetas de vidrio
+            | Losetas de vidrio.
           li
             <i class="fas fa-dot-circle" style="color:#0273BC"></i>
-            | Mechero para alcohol
+            | Mechero para alcohol.
           li
             <i class="fas fa-dot-circle" style="color:#0273BC"></i>
-            | Pinza 139. Medesy
+            | Pinza 139. Medesy.
           li
             <i class="fas fa-dot-circle" style="color:#0273BC"></i>
-            | Porta lija para pieza recta
+            | Porta lija para pieza recta.
           li
             <i class="fas fa-dot-circle" style="color:#0273BC"></i>
-            | Taza de caucho grande para alginato - yeso
+            | Taza de caucho grande para alginato - yeso.
           li
             <i class="fas fa-dot-circle" style="color:#0273BC"></i>
-            | Torre para conformar arcos
+            | Torre para conformar arcos.
           li
             <i class="fas fa-dot-circle" style="color:#0273BC"></i>
-            | Vaso Dappen de silicona
+            | Vaso Dappen de silicona.
 
     .h4.text-center.mb-5 Dentro de esa lista también están los siguiente materiales e instrumentos que tienen diferentes categorías:
 
@@ -237,7 +237,7 @@
               | Piedra rosada de grano grueso.
             li
               <i class="fas fa-dot-circle" style="color:#13C6CC"></i>
-              | Piedras verde grano fino para pieza r
+              | Piedras verde grano fino para pieza recta.
       .tarjeta-avatar.slyderF-media
         img(src='@/assets/curso/tema3/img12.png' alt='AvatarTop')
         .BGR04.p-4.py-5
@@ -259,7 +259,7 @@
           .col.p-4
             .row.justify-content-between.align-items-center
               .col.mb-3.mb-sm-0
-                p.text-white.mb-0 Para conocer la función de cada uno de esto elementos le recomendamos ingresar al siguiente documento donde encontrará la descripción específica de cada material:
+                p.text-white.mb-0 Para conocer la función de cada uno de estos elementos le recomendamos ingresar al siguiente documento donde encontrará la descripción específica de cada material:
               .col-sm-auto
                 a.boton.color-acento-botones(:href="('http://contratacion.sena.edu.co/_file/solicitudes/43206_1.pdf')" target="_blank")
                   span Descargar
@@ -413,7 +413,7 @@
     .row.justify-content-center.mb-4(data-aos="zoom-in")
       .col-md-10
         .titulo-sexto.color-acento-contenido.mb-4
-          h5 Figura 3
+          h5 Figura 2
           span Infraestructura física de un laboratorio dental
         img(src="@/assets/curso/tema3/img33.svg")
 

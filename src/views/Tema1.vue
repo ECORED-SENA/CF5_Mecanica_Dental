@@ -121,7 +121,7 @@
           figure
             img(src='@/assets/curso/tema1/img08.svg')
         .tarjeta.color-secundario.p-3(x="26.4%" y="46.5%" numero="1")
-          p #[strong Muebles equipos y pisos]: todo ambiente debe ser higienizado con agua y detergentes neutros, utilizando utensilios de limpieza que, además  de facilitar la tarea, protejan al trabajador. 
+          p #[strong Muebles y equipos]: todo ambiente debe ser higienizado con agua y detergentes neutros, utilizando utensilios de limpieza que, además  de facilitar la tarea, protejan al trabajador. 
         .tarjeta.color-secundario.p-3(x="22.2%" y="88%" numero="2")
           p #[strong Pisos y mesones]: barrer la superficie y dejar libre de polvo y basuras, proceder con la desinfección utilizando un sistema de trapeado (vía húmeda) con paño limpio sumergido en la solución de hipoclorito.
         .tarjeta.color-secundario.p-3(x="67.8%" y="56%" numero="3")
